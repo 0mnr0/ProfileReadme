@@ -1,2 +1,2 @@
-# ProfileReadme
-This repository contain a README file that showing in profile
+# 0mnr0
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
